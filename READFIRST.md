@@ -1,4 +1,4 @@
-# nothing
+# template
 
 1. Do not Redistribute
 2. Do not use these files or programs for a malicious intent, Either intentional or Unintentional.
